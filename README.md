@@ -25,5 +25,9 @@ this is a sql file.
 
 this is a second sql file.  
 
+this is the third sql line.  
+
+------
+
 
 
